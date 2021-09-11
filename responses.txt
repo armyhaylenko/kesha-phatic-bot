@@ -1,0 +1,15 @@
+hi*->Hike!
+hello*->Hey there!
+how are you*->I'm quite fine, and you?
+*your name*->My name is Kesha, I like repeating stuff!
+you are*->Just like you :)
+*my <w>*->Tell me more about your <w>! I'm curious!
+*is a <w>*-><w>?! So cool!
+*was a <w>*-><w>?! So cool!
+*will be a <w>*-><w>?! So cool!
+*what is <w>*-><w>? Idk, you should look it up on Wikipedia.
+*:)->:)
+*:(->:(
+*->How are you?
+*->Let's discuss something else...
+*->Unintelligible.
